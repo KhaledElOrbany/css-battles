@@ -15,6 +15,7 @@ These battles challenges my CSS abilities and let me think how to solve each one
 * [004-ups-and-downs](https://github.com/KhaledElOrbany/css-battles/blob/master/assets/battles/004-ups-and-downs.html)
 * [005-acid-rain](https://github.com/KhaledElOrbany/css-battles/blob/master/assets/battles/005-acid-rain.html)
 * [006-missing-slice](https://github.com/KhaledElOrbany/css-battles/blob/master/assets/battles/006-missing-slice.html)
+* [007-leafy-trail](https://github.com/KhaledElOrbany/css-battles/blob/master/assets/battles/007-leafy-trail.html)
 
 ## Author:
 * [@el3orb](https://cssbattle.dev/player/el3orb)

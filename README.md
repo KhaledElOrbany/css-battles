@@ -1,8 +1,8 @@
 # CSS Battles
 
-This is a collection of the [Bettles in CSS Battles](https://cssbattle.dev/battles).
+This is a collection of the [Battles in CSS Battles](https://cssbattle.dev/battles).
 <br>
-These battles challnges my CSS abilites and let me think how to solve each one using pure CSS.
+These battles challenges my CSS abilities and let me think how to solve each one using pure CSS.
 
 ### Links
 

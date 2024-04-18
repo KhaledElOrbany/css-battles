@@ -4,6 +4,10 @@ This is a collection of the [Bettles in CSS Battles](https://cssbattle.dev/battl
 <br>
 These battles challnges my CSS abilites and let me think how to solve each one using pure CSS.
 
+### Links
+
+- [Live Demo](https://khaledelorbany.github.io/css-battles/)
+
 ## Battles
 * [001-simply-square](https://github.com/KhaledElOrbany/css-battles/blob/master/assets/battles/001-simply-square.html)
 * [002-carrom](https://github.com/KhaledElOrbany/css-battles/blob/master/assets/battles/002-carrom.html)

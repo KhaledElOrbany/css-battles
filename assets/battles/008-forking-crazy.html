@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    html {
+      width: 100%;
+      height: 100%;
+    }
+
+    body {
+      margin: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #6592CF;
+    }
+
+    main {
+      display: flex;
+      justify-content: center;
+    }
+
+    .fork-heads-up {
+      bottom: 140px;
+      position: absolute;
+      display: flex;
+      gap: 20px;
+    }
+
+    .fork-head-up {
+      width: 20px;
+      height: 110px;
+      background-color: #060F55;
+      border-radius: 10px 10px 0 0;
+    }
+
+    .fork-heads-down {
+      top: 50px;
+      position: absolute;
+      display: flex;
+      gap: 20px;
+    }
+
+    .fork-head-down {
+      width: 20px;
+      height: 110px;
+      background-color: #6592CF;
+      border-radius: 0 0 10px 10px;
+      z-index: 999;
+    }
+
+    .fork-base {
+      width: 140px;
+      height: 100px;
+      bottom: 50px;
+      position: absolute;
+      background-color: #060F55;
+      border-radius: 0 0 10rem 10rem;
+    }
+
+    .fork-handle {
+      width: 20px;
+      height: 60px;
+      bottom: 0;
+      position: absolute;
+      background-color: #060F55;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <div class="fork-heads-down">
+      <div class="fork-head-down"></div>
+      <div class="fork-head-down"></div>
+      <div class="fork-head-down"></div>
+    </div>
+    <div class="fork-heads-up">
+      <div class="fork-head-up"></div>
+      <div class="fork-head-up"></div>
+      <div class="fork-head-up"></div>
+      <div class="fork-head-up"></div>
+    </div>
+    <div class="fork-base"></div>
+    <div class="fork-handle"></div>
+  </main>
+</body>
+
+</html>
